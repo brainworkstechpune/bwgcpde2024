@@ -30,13 +30,13 @@ class SnowflakeConnector:
         self.connection.close()
 
 
-account = "XXXXXXXXXXX"
-user = "XXXXXXXXXXX"
-password = "XXXXXXXXXXX"
-database = "XXXXXXXXXXX"
-schema = "XXXXXXXXXXX"
-role = "XXXXXXXXXXX"
-warehouse = "XXXXXXXXXXX"
+account = "TPHNKRZ.KG97245"
+user = "BRAINWORKSGCPDE2024"
+password = "Brainworks@2024"
+database = "BWDATABASE"
+schema = "BWSCHEMA"
+role = "SYSADMIN"
+warehouse = "BWWAREHOUSE"
 
 sf_connector = SnowflakeConnector(
     account=account,
