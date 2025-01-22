@@ -30,9 +30,9 @@ class SnowflakeConnector:
         self.connection.close()
 
 
-account = "TPHNKRZ.KG97245"
-user = "BRAINWORKSGCPDE2024"
-password = "Brainworks@2024"
+account = "zv44417.us-east4.gcp.snowflakecomputing.com"
+user = "BLAKE"
+password = "Brainworks@2025"
 database = "BWDATABASE"
 schema = "BWSCHEMA"
 role = "SYSADMIN"
